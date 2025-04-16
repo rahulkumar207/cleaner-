@@ -5,8 +5,8 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 
 const Gallery = () => {
   const images = [
-    "",
-    "/lovable-uploads/db5acbc4-2aac-43cf-b37e-daa83b8216fd.png",
+   
+    "/lovable-uploads/team.jpg",
     "/lovable-uploads/14a5b0b7-3591-4804-b4fe-a5b9ca4775aa.png",
     "/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png",
     "/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png",

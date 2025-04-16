@@ -97,21 +97,15 @@ const Certifications = () => {
             {/* Certificate Display */}
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-center text-aza-grey mb-8">Our Certifications</h3>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <div className="rounded-lg overflow-hidden shadow-sm">
+              <div className="grid grid-cols-1 md:grid-cols-1 gap-8">
+                <div className="rounded-lg overflow-hidden shadow-sm items-center" style={{ maxWidth: "600px", margin: "0 auto" }}>
                   <img 
-                    src="/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png" 
+                    src="/lovable-uploads/certificate.jpg" 
                     alt="AZA Services Certificates" 
                     className="w-full h-auto"
                   />
                 </div>
-                <div className="rounded-lg overflow-hidden shadow-sm">
-                  <img 
-                    src="/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png" 
-                    alt="AZA Services Office with Certificates" 
-                    className="w-full h-auto"
-                  />
-                </div>
+                
               </div>
             </div>
           </div>
