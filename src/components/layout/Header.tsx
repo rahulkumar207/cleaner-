@@ -27,7 +27,7 @@ const Header = () => {
         <div className="flex items-center">
           <Link to="/" className="flex items-center gap-3">
             <img 
-              src="/public/lovable-uploads/4b3c83dc-725d-4e93-9693-5c03fb6b97ca.png" 
+              src="/lovable-uploads/4b3c83dc-725d-4e93-9693-5c03fb6b97ca.png" 
               alt="AZA Services Logo" 
               className="h-12 w-auto"
             />

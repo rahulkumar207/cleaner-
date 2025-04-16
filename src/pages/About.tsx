@@ -37,7 +37,7 @@ const About = () => {
               
               <div className="relative h-[400px] rounded-lg overflow-hidden shadow-lg">
                 <img 
-                  src="/public/lovable-uploads/6b679e15-3f0a-48a8-9d11-bce960c3fcd0.png" 
+                  src="/lovable-uploads/6b679e15-3f0a-48a8-9d11-bce960c3fcd0.png" 
                   alt="AZA Services Founders" 
                   className="w-full h-full object-cover"
                 />
@@ -59,7 +59,7 @@ const About = () => {
                     Our leadership team brings decades of combined experience in facility management and cleaning services. They are committed to maintaining the highest standards of service delivery and client satisfaction.
                   </p>
                   <img 
-                    src="/public/lovable-uploads/acce1987-784b-409b-8cac-f7d505fa8045.png" 
+                    src="/lovable-uploads/acce1987-784b-409b-8cac-f7d505fa8045.png" 
                     alt="AZA Services Leadership" 
                     className="w-full h-64 object-cover rounded-md"
                   />
@@ -73,7 +73,7 @@ const About = () => {
                     Our cleaning staff is the backbone of our operations. Each member undergoes thorough training in advanced cleaning techniques, safety protocols, and customer service to ensure consistent, high-quality results.
                   </p>
                   <img 
-                    src="/public/lovable-uploads/b2d08458-1f3d-4a7c-bb1e-6d9ecdb9b248.png" 
+                    src="/lovable-uploads/b2d08458-1f3d-4a7c-bb1e-6d9ecdb9b248.png" 
                     alt="AZA Services Cleaning Staff" 
                     className="w-full h-64 object-cover rounded-md"
                   />

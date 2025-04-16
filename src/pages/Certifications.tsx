@@ -100,14 +100,14 @@ const Certifications = () => {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="rounded-lg overflow-hidden shadow-sm">
                   <img 
-                    src="/public/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png" 
+                    src="/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png" 
                     alt="AZA Services Certificates" 
                     className="w-full h-auto"
                   />
                 </div>
                 <div className="rounded-lg overflow-hidden shadow-sm">
                   <img 
-                    src="/public/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png" 
+                    src="/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png" 
                     alt="AZA Services Office with Certificates" 
                     className="w-full h-auto"
                   />

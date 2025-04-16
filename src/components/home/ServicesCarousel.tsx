@@ -10,28 +10,28 @@ const services = [
     title: "Residential Cleaning",
     description: "Professional cleaning services for your home",
     icon: Home,
-    image: "/public/lovable-uploads/1c6c25b3-3258-4d95-aecc-a0f13413564c.png",
+    image: "/lovable-uploads/1c6c25b3-3258-4d95-aecc-a0f13413564c.png",
     link: "/services#residential"
   },
   {
     title: "Commercial Cleaning",
     description: "Keep your workplace pristine and professional",
     icon: Building2,
-    image: "/public/lovable-uploads/db5acbc4-2aac-43cf-b37e-daa83b8216fd.png",
+    image: "/lovable-uploads/db5acbc4-2aac-43cf-b37e-daa83b8216fd.png",
     link: "/services#commercial"
   },
   {
     title: "Facility Management",
     description: "Complete facility maintenance solutions",
     icon: Wrench,
-    image: "/public/lovable-uploads/14a5b0b7-3591-4804-b4fe-a5b9ca4775aa.png",
+    image: "/lovable-uploads/14a5b0b7-3591-4804-b4fe-a5b9ca4775aa.png",
     link: "/services#facility"
   },
   {
     title: "Specialized Cleaning",
     description: "Custom solutions for unique cleaning needs",
     icon: SprayCan,
-    image: "/public/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png",
+    image: "/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png",
     link: "/services"
   }
 ];

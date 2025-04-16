@@ -5,14 +5,14 @@ import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious
 
 const Gallery = () => {
   const images = [
-    "/public/lovable-uploads/1c6c25b3-3258-4d95-aecc-a0f13413564c.png",
-    "/public/lovable-uploads/db5acbc4-2aac-43cf-b37e-daa83b8216fd.png",
-    "/public/lovable-uploads/14a5b0b7-3591-4804-b4fe-a5b9ca4775aa.png",
-    "/public/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png",
-    "/public/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png",
-    "/public/lovable-uploads/6b679e15-3f0a-48a8-9d11-bce960c3fcd0.png",
-    "/public/lovable-uploads/7ee8aa19-fccb-4c35-9241-3cdb7506e623.png",
-    "/public/lovable-uploads/acce1987-784b-409b-8cac-f7d505fa8045.png"
+    "",
+    "/lovable-uploads/db5acbc4-2aac-43cf-b37e-daa83b8216fd.png",
+    "/lovable-uploads/14a5b0b7-3591-4804-b4fe-a5b9ca4775aa.png",
+    "/lovable-uploads/0453bf3f-4a69-4c31-902e-10b76a4c78ff.png",
+    "/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png",
+    "/lovable-uploads/6b679e15-3f0a-48a8-9d11-bce960c3fcd0.png",
+    "/lovable-uploads/7ee8aa19-fccb-4c35-9241-3cdb7506e623.png",
+    "/lovable-uploads/acce1987-784b-409b-8cac-f7d505fa8045.png"
   ];
 
   return (

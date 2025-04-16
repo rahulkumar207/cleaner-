@@ -245,7 +245,7 @@ const Services = () => {
               
               <div className="relative h-[400px] rounded-lg overflow-hidden shadow-lg">
                 <img 
-                  src="/public/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png" 
+                  src="/lovable-uploads/377a5315-ba91-4a59-b26f-37d72536bbbf.png" 
                   alt="Facility Management" 
                   className="w-full h-full object-cover"
                 />

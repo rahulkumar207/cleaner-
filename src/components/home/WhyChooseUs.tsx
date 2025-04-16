@@ -31,7 +31,7 @@ const WhyChooseUs = () => {
           
           <div className="relative h-[400px] rounded-lg overflow-hidden shadow-lg">
             <img 
-              src="/public/lovable-uploads/fc7f4963-614a-4fcd-af1a-f30d535cebd7.png" 
+              src="/lovable-uploads/fc7f4963-614a-4fcd-af1a-f30d535cebd7.png" 
               alt="AZA Services Team" 
               className="w-full h-full object-cover"
             />

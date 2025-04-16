@@ -106,7 +106,7 @@ const Contact = () => {
                 {/* Map or Image */}
                 <div className="rounded-lg overflow-hidden shadow-md">
                   <img 
-                    src="/public/lovable-uploads/7ee8aa19-fccb-4c35-9241-3cdb7506e623.png" 
+                    src="/lovable-uploads/7ee8aa19-fccb-4c35-9241-3cdb7506e623.png" 
                     alt="AZA Services Location" 
                     className="w-full h-auto"
                   />
