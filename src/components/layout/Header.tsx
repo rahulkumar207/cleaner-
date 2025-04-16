@@ -68,7 +68,7 @@ const Header = () => {
 
       {isMobileMenuOpen && (
         <div className="md:hidden bg-white py-4 shadow-md">
-          <div className="container mx-auto px-4 flex flex-col space-y-3">
+          <div className="container mx-auto px-4   flex flex-col space-y-3">
             <Link to="/" className="text-aza-grey hover:text-aza-purple font-medium py-2" onClick={() => setIsMobileMenuOpen(false)}>Home</Link>
             <Link to="/about" className="text-aza-grey hover:text-aza-purple font-medium py-2" onClick={() => setIsMobileMenuOpen(false)}>About Us</Link>
             <Link to="/services" className="text-aza-grey hover:text-aza-purple font-medium py-2" onClick={() => setIsMobileMenuOpen(false)}>Services</Link>
