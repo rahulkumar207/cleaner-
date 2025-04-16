@@ -59,7 +59,7 @@ const About = () => {
                     Our leadership team brings decades of combined experience in facility management and cleaning services. They are committed to maintaining the highest standards of service delivery and client satisfaction.
                   </p>
                   <img 
-                    src="/lovable-uploads/acce1987-784b-409b-8cac-f7d505fa8045.png" 
+                    src="/lovable-uploads/leader1.jpg" 
                     alt="AZA Services Leadership" 
                     className="w-full h-64 object-cover rounded-md"
                   />
@@ -73,7 +73,7 @@ const About = () => {
                     Our cleaning staff is the backbone of our operations. Each member undergoes thorough training in advanced cleaning techniques, safety protocols, and customer service to ensure consistent, high-quality results.
                   </p>
                   <img 
-                    src="/lovable-uploads/b2d08458-1f3d-4a7c-bb1e-6d9ecdb9b248.png" 
+                    src="https://img.freepik.com/free-photo/full-shot-people-cleaning-office_23-2150454568.jpg?t=st=1744800104~exp=1744803704~hmac=832c9373daa5ddcadff1dce99131b04bcd05f31eb8498cc8fbc139f676e534eb&w=996" 
                     alt="AZA Services Cleaning Staff" 
                     className="w-full h-64 object-cover rounded-md"
                   />

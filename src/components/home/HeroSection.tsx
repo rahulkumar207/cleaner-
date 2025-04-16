@@ -89,11 +89,11 @@ const HeroSection = () => {
             Premium Cleaning & Facility Management Services in Thane District
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 animate-in fade-in duration-700 delay-500">
-          <Link to="/contact">
-  <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-6">
-    Book a Service Now
-  </Button>
-</Link>
+            <Link to="/contact">
+              <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-6">
+                Book a Service Now
+              </Button>
+            </Link>
             <Button
               size="lg"
               variant="outline"
